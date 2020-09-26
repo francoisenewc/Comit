@@ -1,2 +1,3 @@
 # Comit
-Learning REACTJS
+Hi there
+I am ready to learn, just show me how
